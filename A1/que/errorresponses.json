@@ -1,0 +1,9 @@
+{
+	"word": "pota",
+	"error": "Word not found in dictionary."
+}
+
+{
+	"word": null,
+	"error": "Invalid JSON input."
+}

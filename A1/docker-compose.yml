@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  validator:
+    image: prashit21/a1validator
+    ports:
+      - "5000:8080"
+
+  processor:
+    image: prashit21/a1processor
+    volumes:
+      - ./:/app

@@ -1,0 +1,17 @@
+{
+  "name": "processor",
+  "version": "1.0.0",
+  "description": "A1 assignment for CSCI 5409",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashit Patel - B00896717",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security"
+  }
+}

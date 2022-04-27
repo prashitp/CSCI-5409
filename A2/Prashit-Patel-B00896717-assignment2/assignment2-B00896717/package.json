@@ -1,0 +1,21 @@
+{
+  "name": "assignment2-b00896717",
+  "version": "1.0.0",
+  "description": "assignment 2 for CSCI 5409",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashit Patel - B00896717",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1076.0",
+    "axios": "^0.26.0",
+    "express": "^4.17.3",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.0"
+  }
+}
